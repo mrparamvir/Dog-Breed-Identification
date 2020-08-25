@@ -16,7 +16,7 @@ The data we're using is from Kaggle's dog breed identification competition
 https://www.kaggle.com/c/dog-breed-identification/data
 
 3. Evaluation
-The evaluation is a file with prediction probabilities for each dog breed of each test image.
+The evaluation is a file with prediction probabilities for each dog breed of each test image
 
 https://www.kaggle.com/c/dog-breed-identification/overview/evaluation
 
