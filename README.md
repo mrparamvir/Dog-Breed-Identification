@@ -13,7 +13,7 @@ When I'm sitting at the cafe and I take a photo of a dog, I want to know what br
 2. Data
 The data we're using is from Kaggle's dog breed identification competition.
 
-https://www.kaggle.com/c/dog-breed-identification/data
+
 
 3. Evaluation
 The evaluation is a file with prediction probabilities for each dog breed of each test image.
