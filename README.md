@@ -23,4 +23,7 @@ https://www.kaggle.com/c/dog-breed-identification/overview/evaluation
 4. Features
 Some information about the data:
 
-
+We're dealing with images (unstructured data) so it's probably best we use deep learning/transfer learning.
+There are 120 breeds of dogs (this means there are 120 different classes).
+There are around 10,000+ images in the training set (these images have labels).
+There are around 10,000+ images uin the test set (these images have no labels, because we'll want to predict them).
