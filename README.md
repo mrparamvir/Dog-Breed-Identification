@@ -1,4 +1,4 @@
-# Dog-Breed-Identification
+# Dog Breed Identification
 A model which is capable of determining a dog's breed from a photo.
 
 🐶 End-to-end Multi-class Dog Breed Classification
